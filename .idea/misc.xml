@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/TestHMS3/app/src/main/res/drawable/background.xml" value="0.159" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/TestHMS3/app/src/main/res/drawable/custom_rectangle.xml" value="0.159" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/TestHMS3/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.159" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/TestHMS3/app/src/main/res/drawable/ic_baseline_batch_prediction_24.xml" value="0.159" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/TestHMS3/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.159" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/TestHMS3/app/src/main/res/drawable/ic_baseline_local_graviyance_24.xml" value="0.159" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/TestHMS3/app/src/main/res/drawable/ic_baseline_no_meals_24.xml" value="0.159" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/TestHMS3/app/src/main/res/drawable/ic_baseline_notifications_24.xml" value="0.159" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/TestHMS3/app/src/main/res/drawable/ic_baseline_phone_24.xml" value="0.213" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/TestHMS3/app/src/main/res/drawable/ic_baseline_refresh_24.xml" value="0.159" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/TestHMS3/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.159" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/TestHMS3/app/src/main/res/drawable/ic_baseline_signal_wifi_off_24.xml" value="0.159" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/TestHMS3/app/src/main/res/drawable/ic_lock.xml" value="0.159" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/TestHMS3/app/src/main/res/drawable/otp_dialog_background.xml" value="0.159" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/TestHMS3/app/src/main/res/drawable/round_bg.xml" value="0.213" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/TestHMS3/app/src/main/res/drawable/round_border.xml" value="0.213" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/TestHMS3/app/src/main/res/drawable/wave.xml" value="0.213" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/TestHMS3/app/src/main/res/layout/activity_dashboard_student.xml" value="0.22780797101449277" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/TestHMS3/app/src/main/res/layout/activity_help.xml" value="0.176" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/TestHMS3/app/src/main/res/layout/activity_login.xml" value="0.22780797101449277" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/TestHMS3/app/src/main/res/layout/activity_main.xml" value="0.1721014492753623" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/TestHMS3/app/src/main/res/layout/activity_meal_chart.xml" value="0.2" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/TestHMS3/app/src/main/res/layout/activity_notification_board.xml" value="0.22780797101449277" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/TestHMS3/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/TestHMS3/app/src/main/res/layout/activity_settings.xml" value="0.22780797101449277" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/TestHMS3/app/src/main/res/layout/activity_splash.xml" value="0.22780797101449277" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/TestHMS3/app/src/main/res/layout/activity_student_profile.xml" value="0.22780797101449277" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/TestHMS3/app/src/main/res/layout/activity_wallet.xml" value="0.22780797101449277" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/TestHMS3/app/src/main/res/layout/custom_logout_dialog.xml" value="0.22780797101449277" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/TestHMS3/app/src/main/res/layout/custom_otp_dialog.xml" value="0.2" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/TestHMS3/app/src/main/res/layout/no_internet_dialog.xml" value="0.22780797101449277" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/TestHMS3/app/src/main/res/layout/transiction_single_row.xml" value="0.536" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

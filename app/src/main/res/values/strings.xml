@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">THE DAWG</string>
+    <string name="commingsoon">Coming Soon</string>
+    <string name="kgpCell">grievance.kgpsrinagar.edu.in</string>
+    <string name="kgpPhone">+91-194-2310144</string>
+    <string name="kgpEmail">kgpolysgr@rediffmail.com</string>
+    <string name="kgpMap">Gogji Bagh, Srinagar-190008 JK</string>
+
+
+    <!--    items for branches dropdown-->
+    <string-array name="branches">
+        <item>Select branch</item>
+        <item>Computer Engineering</item>
+        <item>IT Engineering</item>
+        <item>E and C Engineering</item>
+        <item>Electrical Engineering</item>
+        <item>Mechanical Engineering</item>
+        <item>AutoMobile Engineering</item>
+        <item>WoodTechnology Engineering</item>
+        <item>LeatherTechnology Engineering</item>
+        <item>Civil Engineering</item>
+    </string-array>
+</resources>

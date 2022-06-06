@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/r11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="15dp"
+        android:paddingTop="15dp"
+        android:paddingRight="15dp">
+
+        <ImageView
+            android:id="@+id/i1"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:src="@drawable/ic_baseline_account_balance_wallet_24" />
+
+    <TextView
+        android:id="@+id/t_type"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_toEndOf="@+id/i1"
+        android:layout_toRightOf="@+id/i1"
+        android:fontFamily="sans-serif-black"
+        android:letterSpacing="0.03"
+        android:text="Cr"
+        android:textColor="#516b9e"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/t_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/t_type"
+        android:layout_marginStart="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="-1dp"
+        android:layout_marginEnd="59dp"
+        android:layout_toStartOf="@+id/t_amount"
+        android:layout_toEndOf="@+id/i1"
+        android:layout_toRightOf="@+id/i1"
+        android:text="190711-2022-06-05-HKFGT"
+        android:textColor="#516b9e"
+        android:textSize="16dp" />
+
+    <TextView
+        android:id="@+id/t_amount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginRight="3dp"
+        android:text="$14,99"
+        android:textColor="#516b9e"
+        android:textSize="23dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/t_date"
+        android:layout_width="61dp"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/t_id"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginEnd="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginBottom="3dp"
+        android:layout_toStartOf="@+id/t_amount"
+        android:layout_toEndOf="@+id/t_type"
+        android:text="2022-06-05 18:04:25"
+        android:textColor="#516b9e"
+        android:textSize="17dp" />
+
+    </RelativeLayout>

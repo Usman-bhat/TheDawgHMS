@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "156127235331",
+    "project_id": "thedawg-hms",
+    "storage_bucket": "thedawg-hms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156127235331:android:45f5bab6cd92392fbb2d36",
+        "android_client_info": {
+          "package_name": "com.usman.testhms3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156127235331-45m6vcm2ugnhjadsqrjetejvb09u9gu7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.usman.testhms3",
+            "certificate_hash": "262e5adb8785732f5442f9dcc2239bf7afb435a5"
+          }
+        },
+        {
+          "client_id": "156127235331-1kv89bijefdv350plpnq8jq3927keu5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwLGzlWcO8kLmoWBmcnJPnbhYorVPaz7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156127235331-1kv89bijefdv350plpnq8jq3927keu5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
